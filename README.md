@@ -1,8 +1,9 @@
 👋 Hi, I’m  AmoguJUduka
-- 👀 I’m interested in Machine Learning, Cloud Computing and Cellular Networks
-- 🌱 I’m currently improving my proficiency in the use of programming languages such as python and c++
-- 💞️ I’m looking to collaborate on interesting projects especially those related to my research at school
-- 📫 You can also reach me on johnsonamogu@gmail.com
+# 🏄‍♂️ Amogu J. Uduka
+
+**`Graduate Student/DevOps Engineer`**
+
+I'm currently a graduate student at George Mason University where I am working as a Graduate Teaching Assistant. I have interest in the intersection of cellular networks and machine learning, and cloud computing.
 
 ### 🧰 Languages and Tools
 
@@ -14,4 +15,5 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br />
