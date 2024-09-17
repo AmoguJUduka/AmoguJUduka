@@ -2,11 +2,7 @@
 
 **`Graduate Teaching Assistant @ George Mason University`**
 
-My goal is to secure a dynamic role in software and cloud engineering, utilizing my blend of practical experience and
-educational background to craft, create, and implement cutting-edge software solutions. I also seek to
-drive operational efficiency and elevate user satisfaction. I am dedicated to ongoing learning and honing
-my skills to remain at the forefront of industry advancements, all while playing a pivotal role in advancing
-the organization's prosperity and expansion.
+I am focused on building innovative solutions and solving complex problems in software, cloud engineering, and machine learning/data science, leveraging my practical experience and educational background. My goal is to drive operational efficiency and enhance user satisfaction while staying at the forefront of industry advancements. I am committed to continuous learning and contributing to the organization’s growth and success through impactful technical leadership, data-driven insights, and strategic innovation.
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,aws,bash,docker,git,github,linux,kubernetes,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,aws,bash,docker,git,github,linux,py)](https://skillicons.dev)
