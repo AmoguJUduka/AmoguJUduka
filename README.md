@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogu J. Uduka</h1>
-<h3 align="center">Machine Learning Enthusiast | Wireless Networks Researcher | Open to Opportunities</h3>
+<h3 align="center">Machine Learning Enthusiast | Wireless Networks Researcher | DevOps/Cloud Engineer | Open to Opportunities</h3>
 
 - 🔭 I’m currently working on **building up my github profile with data and class based programming assignements.**
 
