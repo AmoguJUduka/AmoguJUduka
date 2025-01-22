@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **johnsonamogu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xu22JejrRy4rDYu6iA9I10tLHrqntV8j/view?usp=drive_link](https://docs.google.com/document/d/1FH1FW6uY_dmogTyrQO2pMa3jcADS1BqU/edit?usp=drive_link&ouid=113102729287088968932&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xu22JejrRy4rDYu6iA9I10tLHrqntV8j/view?usp=drive_link](https://docs.google.com/document/d/1Rxm5YsdCjmgjaM3OU_Cjy1wrPjBKd-lK/edit).
 
 - ⚡ Fun fact **I am very good at soccer as well as being funny!!!**
 
