@@ -1,23 +1,51 @@
 <h1 align="center">Hi 👋, I'm Amogu J. Uduka</h1>
-<h3 align="center">Machine Learning Enthusiast | Wireless Networks Researcher | DevOps/Cloud Engineer | Open to Opportunities</h3>
+<h3 align="center">Cloud & Data Engineer | Software Developer | IT Specialist | AWS Certified</h3>
 
-- 🔭 I’m currently working on **building up my github profile with data and class based programming assignements.**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
-- 🌱 I’m currently learning **advanced techniques in machine learning, with a focus on deep learning, reinforcement learning, and their applications in wireless communication, network optimization, and AI-driven systems.**
+## 🔭 What I'm Currently Working On
+- Developing scalable cloud infrastructure using AWS CloudFormation and Terraform
+- Building data pipelines with Apache Spark, MongoDB, and Python
+- Implementing containerized applications with Docker and Ansible
+- Contributing to open-source projects in cloud-native technologies
 
-- 👯 I’m looking to collaborate on **innovative projects that leverage machine learning to enhance wireless communication networks, AI-driven solutions, and digital ecosystems.**
+## 💻 Technical Expertise
+- **Cloud Engineering:** AWS (EC2, S3, Lambda, SNS, IAM), Microsoft Azure, Infrastructure as Code
+- **Data Engineering:** PySpark, ETL Pipelines, Data Warehousing, Real-time Analytics
+- **Software Development:** Python, Java, C++, SQL, RESTful APIs
+- **DevOps:** CI/CD, Docker, Ansible, Bash, PowerShell, Git
+- **Networking:** TCP/IP, DNS, Wireshark, Load Balancing, VPN, Firewalls
 
-- 🤝 I’m looking for help with **developing advanced machine learning models and exploring innovative AI applications across various domains, including network optimization, security, and performance enhancement.**
+## 🤝 Looking to Collaborate On
+- Cloud-native architecture and infrastructure optimization
+- Big data processing and analytics solutions
+- Machine learning implementations for business intelligence
+- Innovative DevOps tooling and automation
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/AmoguJUduka/](https://www.github.com/AmoguJUduka/)
+## 📚 Projects & Repositories
+Check out my repositories for examples of:
+- Event-driven architectures in AWS
+- Big data pipelines using Python and Spark
+- Infrastructure automation with Ansible
+- Full-stack web applications
 
-- 💬 Ask me about **machine learning, AI solutions, or any thing related to wireless communication networks.**
+## 📫 Connect With Me
+- Email: johnsonamogu@gmail.com
+- LinkedIn: [Amogu J. Uduka](https://www.linkedin.com)
+- Resume: [View My Resume](https://docs.google.com/document/d/1Rxm5YsdCjmgjaM3OU_Cjy1wrPjBKd-lK/edit)
 
-- 📫 How to reach me **johnsonamogu@gmail.com**
+## ⚡ Fun Facts
+- I'm a skilled soccer player
+- I bring humor and positive energy to collaborative environments
+- Passionate about continuous learning and staying current with emerging technologies
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xu22JejrRy4rDYu6iA9I10tLHrqntV8j/view?usp=drive_link](https://docs.google.com/document/d/1Rxm5YsdCjmgjaM3OU_Cjy1wrPjBKd-lK/edit).
-
-- ⚡ Fun fact **I am very good at soccer as well as being funny!!!**
+---
+*"Building scalable solutions that transform data into business intelligence"*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
