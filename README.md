@@ -37,7 +37,7 @@ Check out my repositories for examples of:
 ## 📫 Connect With Me
 - Email: johnsonamogu@gmail.com
 - LinkedIn: [Amogu J. Uduka](https://www.linkedin.com)
-- Resume: [View My Resume](https://docs.google.com/document/d/1Rxm5YsdCjmgjaM3OU_Cjy1wrPjBKd-lK/edit)
+- Resume: [View My Resume](https://drive.google.com/file/d/1sq4-0VLQTxrXBJMMwoLK2HzLdsKVI8Sk/view?usp=drive_link)
 
 ## ⚡ Fun Facts
 - I'm a skilled soccer player
