@@ -9,10 +9,7 @@
 </p>
 
 ## 🔭 What I'm Currently Working On
-- Developing scalable cloud infrastructure using AWS CloudFormation and Terraform
-- Building data pipelines with Apache Spark, MongoDB, and Python
-- Implementing containerized applications with Docker and Ansible
-- Contributing to open-source projects in cloud-native technologies
+- Developing scalable cloud infrastructure using AWS CloudFormation and SAM
 
 ## 💻 Technical Expertise
 - **Cloud Engineering:** AWS (EC2, S3, Lambda, SNS, IAM), Microsoft Azure, Infrastructure as Code
@@ -23,6 +20,7 @@
 
 ## 🤝 Looking to Collaborate On
 - Cloud-native architecture and infrastructure optimization
+- Quality Software products
 - Big data processing and analytics solutions
 - Machine learning implementations for business intelligence
 - Innovative DevOps tooling and automation
