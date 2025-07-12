@@ -10,6 +10,8 @@
 
 ## 🔭 What I'm Currently Working On
 - Developing scalable cloud infrastructure using AWS CloudFormation and SAM
+- Preparing for the AWS Certified Developer Associate exam
+- Learning about RedHat Linux 9 Administration
 
 ## 💻 Technical Expertise
 - **Cloud Engineering:** AWS (EC2, S3, Lambda, SNS, IAM), Microsoft Azure, Infrastructure as Code
