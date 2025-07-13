@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogu J. Uduka</h1>
-<h3 align="center">Cloud & Data Engineer | Software Developer | AWS Certified (X2)</h3>
+<h3 align="center">Platform/Cloud/DevOps Engineer | Software Developer | AWS Certified (X2)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
