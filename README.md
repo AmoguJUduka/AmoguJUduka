@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogu J. Uduka</h1>
-<h3 align="center">Platform/Cloud/DevOps Engineer | Software Developer | AWS Certified (X2)</h3>
+<h3 align="center">Platform/Cloud/DevOps Engineer | Software Developer | AWS Certified (X3)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -12,7 +12,7 @@
 
 ## 🔭 What I'm Currently Working On
 - Developing scalable cloud infrastructure using AWS CloudFormation and SAM
-- Preparing for the AWS Certified Developer Associate exam
+- Hurray!! Recently obtained the AWS Certified Developer Associate certification
 - Learning about RedHat Linux 9 Administration
 
 ## 💻 Technical Expertise
@@ -33,13 +33,11 @@
 Check out my repositories for examples of:
 - Event-driven architectures in AWS
 - Big data pipelines using Python and Spark
-- Infrastructure automation with Ansible
-- Full-stack web applications
+- Backend web application
 
 ## 📫 Connect With Me
 - Email: johnsonamogu@gmail.com
-- LinkedIn: [Amogu J. Uduka](https://www.linkedin.com)
-- Resume: [View My Resume](https://drive.google.com/file/d/1sq4-0VLQTxrXBJMMwoLK2HzLdsKVI8Sk/view?usp=drive_link)
+- LinkedIn: [Amogu J. Uduka](https://www.linkedin.com/in/amogujuduka)
 
 ## ⚡ Fun Facts
 - I'm a skilled soccer player
