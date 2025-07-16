@@ -12,6 +12,7 @@
 
 ## 🔭 What I'm Currently Working On
 - Developing scalable cloud infrastructure using AWS CloudFormation and SAM
+- Working on getting the AWS AI Practitioner certification
 - Hurray!! Recently obtained the AWS Certified Developer Associate certification
 - Learning about RedHat Linux 9 Administration
 
