@@ -10,7 +10,7 @@
 
 ## 🔭 What I'm Currently Working On
 - Hurray!! Recently obtained the AWS Certified Developer Associate certification
-- Delving Deep into RedHat Linux 9 Administration
+- Delving Deep into the world of Docker
 
 ## 💻 Technical Expertise
 - **Cloud Engineering:** AWS (EC2, S3, Lambda, SNS, IAM), Microsoft Azure, Infrastructure as Code
