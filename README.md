@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogu J. Uduka</h1>
-<h3 align="center">Platform/Cloud/DevOps Engineer | Software Developer | AWS Certified (X3)</h3>
+<h3 align="center">EVCharging Security Researcher | AWS Certified (X3)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -9,19 +9,17 @@
 
 
 ## 🔭 What I'm Currently Working On
-- Hurray!! Recently obtained the AWS Certified Developer Associate certification
+- Building competency in the OCPP protocol for EVs
 - Currently preparing for the Red Hat Certified Systems Administrator (RHCSA) Exam
 
 ## 💻 Technical Expertise
-- **Cloud Engineering:** AWS (EC2, S3, Lambda, SNS, IAM), Microsoft Azure, Infrastructure as Code
 - **Data Engineering:** PySpark, ETL Pipelines, Data Warehousing, Real-time Analytics
-- **Software Development:** Python, Java, C++, SQL, RESTful APIs
-- **DevOps:** CI/CD, Docker, Ansible, Bash, PowerShell, Git
-- **Networking:** TCP/IP, DNS, Wireshark, Load Balancing, VPN, Firewalls
+- **Languages:** Python, SQL
+- **DevOps:** Docker, Ansible, Bash, PowerShell, Git
+- **Networking:** TCP/IP, DNS, Wireshark, SSL, Firewalls
 
 ## 🤝 Looking to Collaborate On
 - Cloud-native architecture and infrastructure optimization
-- Quality Software products
 - Big data processing and analytics solutions
 - Machine learning implementations for business intelligence
 - Innovative DevOps tooling and automation
@@ -42,7 +40,6 @@ Check out my repositories for examples of:
 - Passionate about continuous learning and staying current with emerging technologies
 
 ---
-*"Building scalable solutions that transform data into business intelligence"*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
