@@ -35,7 +35,7 @@ My focus is on developing practical skills that support **secure system design, 
 
 ## 🤝 Connect With Me
 
-- LinkedIn  
+- [LinkedIn](https://www.linkedin.com/in/amogujuduka)  
 - GitHub Projects  
 - Professional Networking Events  
 
